@@ -3,8 +3,8 @@
 Programador backend, frontend y móvil.
 
 ## Información
-- 🔭 Actualmente trabajo en [alkaedaavhcf](https://github.com/nmoralesFZ/alkaedaavhcf) y todos sus complementos.
-- 🌱 Actualmente sigo aprendiendo PHP y un poco de Java (para las apps de android).
-- 😄 Pronombres: he/him
-- ⚡ Dato curioso: tengo 14 conejos jijiii
+- 💼 Actualmente trabajo en [Le Partisan](https://lepartisan.org).
+- 🌱 Actualmente sigo aprendiendo PHP y ahora recientemente Ruby.
+- 😄 Pronombres: any
+- ⚡ Dato curioso: tengo 14 conejitoss jeje
 
