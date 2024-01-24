@@ -3,8 +3,8 @@
 Programador backend, frontend y móvil.
 
 ## Información
-- 💼 Actualmente trabajo en [Le Partisan](https://lepartisan.org).
-- 🌱 Actualmente sigo aprendiendo PHP y ahora recientemente Ruby.
+- 💼 Actualmente trabajo en [NACO Inc.](https://nacoincorporated.com).
+- 🌱 Actualmente sigo aprendiendo PHP.
 - 😄 Pronombres: any
-- ⚡ Dato curioso: tengo 14 conejitoss jeje
+- ⚡ Dato curioso: tengo 16 conejitoss jeje
 
